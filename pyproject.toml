@@ -2,9 +2,3 @@
 requires = ["setuptools>=42", "wheel"]
 build-backend = "setuptools.build_meta"
 
-[project]
-name = "eve_esi"
-version = "0.1.0"
-description = "EVE ESI Python package"
-authors = [{name = "Ton Nom"}]
-packages = ["eve_esi"]
