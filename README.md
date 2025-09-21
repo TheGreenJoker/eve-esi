@@ -1,1 +1,1 @@
-# Here can be bugs, sumbit they as Issues
+# Here can be bugs, sumbit them as Issues
